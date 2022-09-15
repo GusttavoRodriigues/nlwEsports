@@ -21,7 +21,7 @@ section ul li:hover{
 }
 
 body{
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/bg3.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -37,6 +37,8 @@ header{
     margin-top: 32px;
     height: 120px;
 }
+
+
 
 header div{
     width: 120px;
@@ -102,6 +104,7 @@ section div{
 
 section h2{
     letter-spacing: -0.47px;
+
 }
 
 section p{
