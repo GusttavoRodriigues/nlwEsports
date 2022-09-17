@@ -39,7 +39,6 @@ header{
 }
 
 
-
 header div{
     width: 120px;
     margin: auto;
@@ -59,6 +58,14 @@ header div:hover{
 header img{
     width: 100%;
     border-radius: 50%;
+}
+
+
+main a{
+color: white;
+margin: auto;
+display: flex;
+
 }
 
 main{
